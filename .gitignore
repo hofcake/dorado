@@ -33,3 +33,4 @@ Makefile
 # If running regression tests, the regression_test_data project is downloaded into
 # the dorado folder. We don't want it to be accidentally committed.
 regression_test_data
+validation-matrix/
